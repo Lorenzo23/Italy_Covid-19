@@ -12,8 +12,18 @@ Italy_Covid-19/
 │   ├── regions_trend.csv
 │   ├── provinces_trend.csv
 ├── Shapefiles/
-│   ├── italy_regions.shp
-│   ├── italy_provinces.shp
+│   ├── regions/
+│   │   ├── italy_regions.shp
+│   │   ├── italy_regions.shx
+│   │   ├── italy_regions.prj
+│   │   ├── italy_regions.dbf
+│   │   ├── italy_regions.cpg
+│   ├── provinces/
+│   │   ├── italy_provinces.shp
+│   │   ├── italy_provinces.shx
+│   │   ├── italy_provinces.prj
+│   │   ├── italy_provinces.dbf
+│   │   ├── italy_provinces.cpg
 ├── notebooks/
 │   ├── EDA.ipynb
 ```
