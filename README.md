@@ -27,11 +27,12 @@ Italy_Covid-19/
 ├── src/
 │   ├── EDA.ipynb
 ```
+The jupyter notebooks have been built to work with the project structure above; specifically, once downloaded the repository one just needs to run jupyter and open the notebooks to star working.
 
 ## Data
-Data is taken from the following github repository as CSV files, which is updated daily:
+Data is directly imported in the jupyter notebook from the following github repository, which is updated daily:
 (https://github.com/pcm-dpc/COVID-19)
-Alternatively, data is directly imported in the jupyter notebook from the same repository above.
+Data can be manually downloaded as CSV files and saved in the Data directory.
 
 ## Shapefiles
 In order to plot geographic data i've also dowloaded shapefiles from the following site:
