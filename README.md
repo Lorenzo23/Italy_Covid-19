@@ -26,7 +26,7 @@ Alternatively, data is directly imported in the jupyter notebook from the same r
 ## Shapefiles
 In order to plot geographic data i've also dowloaded shapefiles from the following site:
 
-There are two mainly shape files:
+There are two mainly shape files: (http://www.diva-gis.org/gdata)
 
 1. ***italy_regions.shp***: shapefile with regions of italy.
 2. ***italy_provinces.shp***: shapefile with provinces of italy.
