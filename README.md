@@ -31,7 +31,7 @@ The jupyter notebooks have been built to work with the project structure above; 
 
 ## Data 
 Data is directly imported in the jupyter notebook from the following github repository, which is the official one of Italian Civil Protection:
-(https://github.com/pcm-dpc/COVID-19)
+(https://github.com/pcm-dpc/COVID-19).
 Data can be manually downloaded as CSV files from the latter and saved in the Data directory.
 
 ## Shapefiles
