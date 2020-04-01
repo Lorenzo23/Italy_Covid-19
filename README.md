@@ -29,15 +29,15 @@ Italy_Covid-19/
 ```
 The jupyter notebooks have been built to work with the project structure above; specifically, once downloaded the repository one just needs to run jupyter and open the notebooks to start working.
 
-## Data
-Data is directly imported in the jupyter notebook from the following github repository, which is updated daily:
+## Data 
+Data is directly imported in the jupyter notebook from the following github repository, which is the official one of Italian Civil Protection:
 (https://github.com/pcm-dpc/COVID-19)
-Data can be manually downloaded as CSV files and saved in the Data directory.
+Data can be manually downloaded as CSV files from the latter and saved in the Data directory.
 
 ## Shapefiles
-In order to plot geographic data i've also dowloaded shapefiles from the following site:
+In order to plot geographic data i've also dowloaded shapefiles from the following site: (http://www.diva-gis.org/gdata)
 
-There are two mainly shape files: (http://www.diva-gis.org/gdata)
+There are two mainly shape files: 
 
 1. ***italy_regions.shp***: shapefile with regions of italy.
 2. ***italy_provinces.shp***: shapefile with provinces of italy.
@@ -53,7 +53,13 @@ Up to now I'm working on the following notebooks, saved in the src directory (co
 
 ## Further Information
 
-The aim of these analysis is simply to have a global view on behavior of Coronavirus in my country. Future goals are the development of predictive models in order to study and predict the behavior on the next days.
+The aim of these analysis is simply to have a global view on behavior of Coronavirus in my country. Future goals are the development of predictive models in order to study and predict the behavior on the next days. There are many difficulties related to this task:
+- Little amount of historical data.
+- Missing of important information such as exogenous variables (i.e. restriction policies and so on) and epidemiological variables characterizing virus spread in the actual dataset.
+Anyway, I think it worths a try :)
 Anyone who is interested in the analysis and has suggestions/hints about possible predictive models can write me to the following mail address: lorenzo92rota@gmail.com
 
+## License
+Data comes from various public sources, I believe that the results dataset can be classified under [Public Domain and Dedication License][pddl].
 
+[pddl]: https://www.opendatacommons.org/licenses/pddl/1-0/
