@@ -24,7 +24,7 @@ Italy_Covid-19/
 │   │   ├── italy_provinces.prj
 │   │   ├── italy_provinces.dbf
 │   │   ├── italy_provinces.cpg
-├── notebooks/
+├── src/
 │   ├── EDA.ipynb
 ```
 
@@ -42,7 +42,7 @@ There are two mainly shape files: (http://www.diva-gis.org/gdata)
 2. ***italy_provinces.shp***: shapefile with provinces of italy.
 
 ## Notebooks
-Up to now I'm working on the following notebooks:
+Up to now I'm working on the following notebooks, saved in the src directory (code sources):
 
 1. ***EDA.ipynb***: in this notebook there is a basic EDA, the codes are commented to understand the usage.
 
