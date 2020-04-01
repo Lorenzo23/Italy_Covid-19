@@ -27,7 +27,7 @@ Italy_Covid-19/
 ├── src/
 │   ├── EDA.ipynb
 ```
-The jupyter notebooks have been built to work with the project structure above; specifically, once downloaded the repository one just needs to run jupyter and open the notebooks to star working.
+The jupyter notebooks have been built to work with the project structure above; specifically, once downloaded the repository one just needs to run jupyter and open the notebooks to start working.
 
 ## Data
 Data is directly imported in the jupyter notebook from the following github repository, which is updated daily:
@@ -54,5 +54,6 @@ Up to now I'm working on the following notebooks, saved in the src directory (co
 ## Further Information
 
 The aim of these analysis is simply to have a global view on behavior of Coronavirus in my country. Future goals are the development of predictive models in order to study and predict the behavior on the next days.
+Anyone who is interested in the analysis and has suggestions/hints about possible predictive models can write me to the following mail address: lorenzo92rota@gmail.com
 
 
