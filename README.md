@@ -31,4 +31,12 @@ There are two mainly shape files:
 2. ***italy_provinces.shp***: shapefile with provinces of italy.
 
 ## Notebooks
-So far, 
+Up to now I'm working on the following notebooks:
+
+1. ***EDA.ipynb***: in this notebook there is a basic EDA, the codes are commented to understand the usage.
+
+## Further Information
+
+The aim of these analysis is simply to have a global view on behavior of Coronavirus in my country. Future goals are the development of predictive models in order to study and predict the behavior on the next days.
+
+
