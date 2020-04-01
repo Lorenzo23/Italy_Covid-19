@@ -1,7 +1,7 @@
 # Italy_Covid-19
 
 ## Introduction
-In this repository i've collected some analysis written with Python on Covid-19 data for Italy. 
+In this repository I've collected some analysis written on Jupyter Notebook with Python about Covid-19 data for Italy. 
 The structure of the repository is as follows:
 
 ```
@@ -41,10 +41,14 @@ There are two mainly shape files: (http://www.diva-gis.org/gdata)
 1. ***italy_regions.shp***: shapefile with regions of italy.
 2. ***italy_provinces.shp***: shapefile with provinces of italy.
 
+
 ## Notebooks
 Up to now I'm working on the following notebooks, saved in the src directory (code sources):
 
 1. ***EDA.ipynb***: in this notebook there is a basic EDA, the codes are commented to understand the usage.
+                    In order to plot geographic data I've used geopandas package, as suggested by the official page it is suggested
+                    (optionally) to create a specific virtual environment and install the geopandas dependencies there to avoid
+                    possible conflicts.
 
 ## Further Information
 
