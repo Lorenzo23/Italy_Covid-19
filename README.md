@@ -19,8 +19,9 @@ Italy_Covid-19/
 ```
 
 ## Data
-Data is taken from the following github repository, which is updated daily:
+Data is taken from the following github repository as CSV files, which is updated daily:
 (https://github.com/pcm-dpc/COVID-19)
+Alternatively, data is directly imported in the jupyter notebook from the same repository above.
 
 ## Shapefiles
 In order to plot geographic data i've also dowloaded shapefiles from the following site:
