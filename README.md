@@ -51,10 +51,13 @@ Up to now I'm working on the following notebooks, saved in the src directory (co
 1. ***EDA.ipynb***: in this notebook there is a basic EDA, the codes are commented to understand the usage.
                     In order to plot geographic data I've used geopandas package  (the official page suggests to create a specific  
                     virtual environment and install the geopandas dependencies there to avoid possible conflicts).
+2. ***Forecasting.ipynb***: in this notebook i've tried to forecast the trend of total cases in each region. I've used:
+   - Logistic model
+                  
 
 ## Further Information
 
-The aim of these analysis is simply to have a global view on behavior of Coronavirus in my country. Future goals are the development of predictive models in order to study and predict the behavior on the next days. There are many difficulties related to this task:
+The aim of these analysis is simply to have a global view on behavior of Coronavirus in my country. Future goals are the enrinchment of predictive models in Forecasting notebook in order to study and predict the behavior on the next days. There are many difficulties related to this task:
 - Little amount of historical data.
 - Missing of important information such as exogenous variables (i.e. restriction policies and so on) and epidemiological variables characterizing virus spread in the actual dataset.
 
