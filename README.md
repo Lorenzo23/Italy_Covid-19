@@ -26,6 +26,7 @@ Italy_Covid-19/
 │   │   ├── italy_provinces.cpg
 ├── src/
 │   ├── EDA.ipynb
+│   ├── load_data.py
 ```
 The jupyter notebooks have been built to work with the project structure above; specifically, once downloaded the repository one just needs to run jupyter and open the notebooks to start working.
 
@@ -48,9 +49,8 @@ There are two mainly shape files:
 Up to now I'm working on the following notebooks, saved in the src directory (code sources):
 
 1. ***EDA.ipynb***: in this notebook there is a basic EDA, the codes are commented to understand the usage.
-                    In order to plot geographic data I've used geopandas package, as suggested by the official page it is suggested
-                    (optionally) to create a specific virtual environment and install the geopandas dependencies there to avoid
-                    possible conflicts.
+                    In order to plot geographic data I've used geopandas package  (the official page suggests to create a specific  
+                    virtual environment and install the geopandas dependencies there to avoid possible conflicts).
 
 ## Further Information
 
