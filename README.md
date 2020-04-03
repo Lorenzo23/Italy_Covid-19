@@ -26,6 +26,7 @@ Italy_Covid-19/
 │   │   ├── italy_provinces.cpg
 ├── src/
 │   ├── EDA.ipynb
+│   ├── Forecasting.ipynb
 │   ├── load_data.py
 ```
 The jupyter notebooks have been built to work with the project structure above; specifically, once downloaded the repository one just needs to run jupyter and open the notebooks to start working.
