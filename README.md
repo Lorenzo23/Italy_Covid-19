@@ -54,15 +54,16 @@ Up to now I'm working on the following notebooks, saved in the src directory (co
                     virtual environment and install the geopandas dependencies there to avoid possible conflicts).
 2. ***Forecasting.ipynb***: in this notebook i've tried to forecast the trend of total cases in each region. I've used:
    - Logistic model
+   - LSTM: implementation of long-short time memory network to model the growth of coronavirus cases with a data-driven approach.
                   
 
 ## Further Information
 
-The aim of these analysis is simply to have a global view on behavior of Coronavirus in my country. Future goals are the enrinchment of predictive models in Forecasting notebook in order to study and predict the behavior on the next days. There are many difficulties related to this task:
+The aim of these analysis is simply to have a global view on behavior of Coronavirus in my country. Some difficulties are related to the task of predictive modeling:
 - Little amount of historical data.
 - Missing of important information such as exogenous variables (i.e. restriction policies and so on) and epidemiological variables characterizing virus spread in the actual dataset.
 
-Anyway, I think it worths a try :)
+The latter motivates the use of a data-driven approach exploiting the potentiality of Deep Learning methods (such as LSTM).
 Anyone who is interested in the analysis and has suggestions/hints about possible predictive models can write me to the following mail address: lorenzo92rota@gmail.com
 
 ## License
